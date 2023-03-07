@@ -1,6 +1,5 @@
 RINCIAN MATERI KAMPUS MERDEKA MSIB BATCH 4
 
-- HTML & CSS
 - Web Design
 - JavaScript
 - PHP
