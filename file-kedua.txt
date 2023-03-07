@@ -1,4 +1,4 @@
- Ini adalah cabang (Branch)
+ Ini adalah branch
  perintah membuat branch ketika di lokal adalah git branch name_branch
  setiap file yang ada di branch tidak terlihat di master
  kecuali sudah dilakukan merge atau penggabungan perintahnya adalah git merge
