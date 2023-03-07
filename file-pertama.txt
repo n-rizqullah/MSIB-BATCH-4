@@ -1,0 +1,9 @@
+RINCIAN MATERI KAMPUS MERDEKA MSIB BATCH 4
+
+- HTML & CSS
+- JavaScript
+- PHP
+- MySQL
+- Laravel
+- GitHub
+- Rest API
